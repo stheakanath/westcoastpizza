@@ -20,7 +20,7 @@ toppings = ["pepperoni", "artichoke hearts", "mild pepper rings",
  "tomatoes", "pesto", "salami", "pineapple", "sauce", "spinach", "garlic",
  "feta cheese", "bacon", "provolone", "red onion"]
 
-#I WANT TWO PIZZAS BITCHHHHHHHHHHH
+#I WANT TWO PIZZAS 
 pick_random(toppings)
 pick_random(toppings)
 print("And a Cheesy sticks for 21.99! Freshmen special order~")
